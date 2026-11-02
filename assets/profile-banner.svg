@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">苏虹硕 · AI 产品经理</title>
+  <desc id="desc">让想法，在真实世界发生。产品思维、AI 实践、场景交付与商业价值。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11131C"/><stop offset=".6" stop-color="#151426"/><stop offset="1" stop-color="#252046"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="800" y1="60" x2="1100" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BFA8FF" stop-opacity=".8"/><stop offset="1" stop-color="#BFA8FF" stop-opacity=".06"/>
+    </linearGradient>
+    <linearGradient id="line" x1="68" y1="377" x2="1132" y2="377" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity=".5"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".08"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="440" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="440" rx="24" fill="url(#bg)"/>
+    <circle cx="1010" cy="209" r="239" stroke="url(#orbit)"/>
+    <circle cx="1010" cy="209" r="183" stroke="url(#orbit)"/>
+    <circle cx="1010" cy="209" r="127" stroke="url(#orbit)"/>
+    <path d="M763 209H1200M1010 0V370" stroke="#C4B5FD" stroke-opacity=".09"/>
+    <circle cx="1010" cy="26" r="5" fill="#C4B5FD"/>
+    <circle cx="825" cy="360" r="4" fill="#9D87DB"/>
+    <circle cx="1137" cy="209" r="4" fill="#C4B5FD"/>
+    <path d="M808 272C871 272 888 142 951 142C1014 142 1031 272 1094 272" stroke="#BBA6F2" stroke-width="2"/>
+    <circle cx="951" cy="142" r="7" fill="#E3DAFF"/>
+    <rect x="855" y="300" width="244" height="42" rx="21" fill="#252139" stroke="#4B4068"/>
+    <text x="977" y="327" text-anchor="middle" fill="#D8CCF5" font-size="15" letter-spacing="2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">IDEA → PRODUCT</text>
+    <circle cx="74" cy="65" r="5" fill="#BCA4FF"/>
+    <text x="92" y="71" fill="#BFB6D2" font-size="15" letter-spacing="3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">SU HONGSHUO / PRODUCT &amp; AI</text>
+    <text x="68" y="165" fill="#F7F4FD" font-size="74" font-weight="650" letter-spacing="5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">苏虹硕</text>
+    <text x="71" y="211" fill="#C7B1FD" font-size="23" letter-spacing="2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">AI 产品经理</text>
+    <text x="68" y="286" fill="#F0EAFB" font-size="35" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">让想法，在真实世界发生。</text>
+    <text x="71" y="326" fill="#A9A0BC" font-size="17" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">产品思维 / AI 实践 / 场景交付 / 商业价值</text>
+    <path d="M68 377H1132" stroke="url(#line)"/>
+    <text x="71" y="409" fill="#A69ABF" font-size="13" letter-spacing="2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">THINK CLEARLY. BUILD SOMETHING REAL.</text>
+    <text x="1130" y="409" text-anchor="end" fill="#BEB0DC" font-size="13" letter-spacing="1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">suhongshuo6-cell.github.io ↗</text>
+  </g>
+</svg>
