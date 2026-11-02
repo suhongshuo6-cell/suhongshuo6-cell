@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://suhongshuo6-cell.github.io/"><strong>个人网站 ↗</strong></a> &nbsp; · &nbsp;
-  <a href="#-全部公开项目"><strong>查看项目</strong></a> &nbsp; · &nbsp;
-  <a href="#-技能与关注方向"><strong>技能与标签</strong></a> &nbsp; · &nbsp;
+  <a href="#user-content--全部公开项目"><strong>查看项目</strong></a> &nbsp; · &nbsp;
+  <a href="#user-content--技能与关注方向"><strong>技能与标签</strong></a> &nbsp; · &nbsp;
   <a href="https://github.com/suhongshuo6-cell?tab=repositories"><strong>仓库列表 ↗</strong></a>
 </p>
 
