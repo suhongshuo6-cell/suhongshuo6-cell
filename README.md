@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://suhongshuo6-cell.github.io/">
-    <img src="./assets/profile-banner.svg" width="100%" alt="苏虹硕 · AI 产品经理。让想法，在真实世界发生。点击访问个人网站。" />
+    <img src="./assets/website-v2.png" width="100%" alt="苏虹硕个人网站 v2：黑白灰与薄荷绿，想法沿着问题、原型、产品三级台阶落地。点击进入完整互动网站。" />
   </a>
 </p>
+
+<p align="center"><sub>一个想法，一级一级跳成产品。点击封面，体验完整的 3D 互动网站。</sub></p>
 
 <p align="center">
   <a href="https://suhongshuo6-cell.github.io/"><strong>个人网站 ↗</strong></a> &nbsp; · &nbsp;
@@ -15,7 +17,9 @@
 
 **AI 产品经理，关注 AI 能力如何变成真实可用的产品。**
 
-我关心需求背后的问题，也关心产品最终如何被使用、如何交付、如何创造商业价值。用 Claude / Claude Code 与 Vibe Coding 探索想法，把产品思考落到可以打开、体验和检验的作品上。
+比起“这个能不能用 AI 做”，我更在意“这件事值不值得做”——需求背后的问题是什么，产品最终如何被使用、被交付，又如何创造价值。我习惯把判断变成可以打开的作品，让想法接受真实体验的检验。
+
+用 Claude / Claude Code 与 Vibe Coding，把产品判断落成可以打开、体验和检验的作品。关注 FDE 场景交付与商业化。
 
 > 让想法，在真实世界发生。
 
@@ -54,13 +58,15 @@
 
 ---
 
-### 02 · 苏虹硕的个人网站
+### 02 · 苏虹硕的个人网站 v2
 
 **一个展示我是谁、在做什么、如何思考的个人空间。**
 
-以个人介绍、项目展示和产品思考为核心，采用深色视觉与中英文字体排版，并通过 GitHub Pages 公开访问。
+把“我是谁、我怎么做、我做过什么”当成一个产品来设计。黑白灰与薄荷绿、鲜明的中英文字体、Three.js 互动首屏，让一个想法沿着“问题 → 原型 → 产品”的台阶逐级落地。
 
-`HTML` `CSS` `JavaScript` `GitHub Pages` `个人品牌`
+网站包含 **关于、方向、方法、作品、手记、此刻、联系** 七个区块，支持手机导航、手记展开与减少动态效果设置；WebGL 不可用时展示静态海报。
+
+`HTML` `CSS` `JavaScript` `Three.js` `GitHub Pages`
 
 **[访问网站 ↗](https://suhongshuo6-cell.github.io/)** &nbsp; · &nbsp; **[查看源码 ↗](https://github.com/suhongshuo6-cell/suhongshuo6-cell.github.io)**
 
@@ -68,11 +74,31 @@
 
 <sub>主页本身也开源在 <a href="https://github.com/suhongshuo6-cell/suhongshuo6-cell">suhongshuo6-cell</a>。更多更新可查看 <a href="https://github.com/suhongshuo6-cell?tab=repositories">全部公开仓库</a>。</sub>
 
-## 🧭 我的产品视角
+## 🧭 我的工作方式
 
-- **从问题开始**：先理解用户与场景，再判断是否需要 AI、需要怎样的产品。
-- **用作品验证**：把抽象的想法变成原型与实际交互，让判断接受体验的检验。
-- **把交付与价值连起来**：同时关注使用体验、落地条件和商业化路径。
+1. **从问题开始**：先理解用户与场景，再判断是否需要 AI、需要怎样的产品。如果拿掉 AI 这个标签，用户还会需要它吗？
+2. **用作品验证**：把抽象的想法变成原型与实际交互，让判断接受体验的检验。讨论十遍方案，不如做一个能打开的版本。
+3. **把交付与价值连起来**：同时关注使用体验、落地条件和商业化路径。用户是否更稳定、更轻松地完成了任务？
+
+**[了解我的工作方式 ↗](https://suhongshuo6-cell.github.io/#method)**
+
+## ✍️ 产品手记
+
+作品之外，也留下思考的过程。
+
+- **先找到值得解决的问题，再谈 AI 的可能** · 需求与价值
+- **好的 AI 体验，也包括知道何时交还控制权** · 体验与信任
+- **从一个惊艳的 Demo，到一个可靠的产品** · 验证与迭代
+
+**[在个人网站阅读手记 ↗](https://suhongshuo6-cell.github.io/#notes)**
+
+## 🟢 此刻 · 2026.11
+
+- **个人网站 v2**：用新的视觉与互动，重新组织个人介绍、工作方式和作品。
+- **Claude Shield**：处在源码与隔离测试阶段，继续打磨检查、状态展示与恢复路径。
+- **正在思考**：知识如何变得有用、AI 如何完成任务、人如何与智能协作。
+
+**[查看此刻 ↗](https://suhongshuo6-cell.github.io/#now)** &nbsp; · &nbsp; **[联系与交流 ↗](https://suhongshuo6-cell.github.io/#contact)**
 
 <br />
 
